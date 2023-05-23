@@ -1,0 +1,136 @@
+body {
+    background-color: #fffde2;
+    overflow-x: hidden;
+    text-decoration: none;
+}
+
+.landing {
+    margin-top: 5vh;
+    padding-bottom: 3vh;
+    padding-top: 2vh;
+} 
+
+    .nav {
+        display: inline-block;
+        margin-top: 4vh;
+        margin-left: 20vh;
+        padding: 3vh;
+        font-size: 3.5em;
+        text-decoration: none;
+        text-align: center;
+    }
+
+    .landing:hover .nav {
+        background-color: #275022;
+        color: #fffde2;
+        transition: all 0.75s ease;
+    }
+
+    .borderB {
+        padding: 2vh;
+        margin-right: 33vh;
+        display: inline;
+    }
+
+    .borderB2 {
+        padding: 2vh;
+        display: inline;
+    }
+
+            a {
+                text-decoration: none;
+                color: black;
+            }
+
+            .landing:hover a {
+                text-decoration: none;
+                color: #fffde2;
+                transition: all 0.75s ease;
+            }
+
+        .name {
+            display: inline-block;
+            font-size: 6em;
+            margin-left: 17.5vh;
+            margin-top: 20vh;
+            padding: 5vh;
+            border: solid 0.5vh #275022;
+        }
+
+        .landing:hover .name {
+            background-color: #275022;
+            color: #fffde2;
+            border: solid 0.5vh #275022;
+            transition: all 0.75s ease;
+        }
+
+.about {
+    margin-top: 5vh;
+    margin-left: -5vh;
+    width: 115vw;
+}
+
+    .aboutTitle {
+        display: inline-block;
+        font-size: 6em;
+        margin-left: 125vh;
+        margin-top: 14vh;
+        padding: 5vh;
+        border: solid 0.5vh #275022;
+    }
+
+    .about:hover .aboutTitle{
+        background-color: #275022;
+        color: #fffde2;
+        transition: all 0.75s ease;
+    }
+        
+    .contact {
+        margin-top: 5vh;
+        margin-left: -5vh;
+        width: 115vw;
+     }
+
+        .contactTitle {
+            display: inline-block;
+            font-size: 6em;
+            margin-left: 125vh;
+            padding: 5vh;
+            border: solid 0.5vh #275022;
+        }
+
+        .contact:hover .contactTitle{
+            background-color: #275022;
+            color: #fffde2;
+            transition: all 0.75s ease;
+        }
+
+    .info {
+        font-size: 2.5em;
+        margin-top: -8vh;
+        margin-left: 22vh;
+        padding: 3vh;
+        padding-bottom: 11vh;
+        line-height: 12vh;
+    }
+
+.projects {
+    margin-top: 5vh;
+    margin-left: -5vh;
+    width: 115vw;
+}
+
+    .projTitle {
+        display: inline-block;
+        font-size: 6em;
+        margin-left: 125vh;
+        margin-top: 14vh;
+        padding: 5vh;
+        border: solid 0.5vh #275022;
+    }
+
+    .projects:hover .projTitle{
+        background-color: #275022;
+        color: #fffde2;
+        transition: all 0.75s ease;
+    }
